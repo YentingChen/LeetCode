@@ -7,8 +7,6 @@ class Solution {
             
             let second = target - num
             
-           
-            
             if let secondIndex = dic[second] {
                 
                 return [ i, secondIndex]
